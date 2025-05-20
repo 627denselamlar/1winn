@@ -24,4 +24,4 @@
 
 <p class="highlight">📲 Telegram ile Gelişmeleri Kaçırma!</p>
 
-<p class="highlight">🔥 Siz de kazananlar arasındaki yerinizi alın, 1win avantajlarını kaçırmayın! 🔥</p>
+<p class="highlight">🔥 Siz de kazananlar arasındaki yerinizi alın, 1win avantajlarını kaçırmayın!. 🔥</p>
